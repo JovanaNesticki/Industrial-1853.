@@ -42,7 +42,7 @@ html,body{
     font-size: 23px;
     text-decoration: none !important;
     border-radius: 20px;
-    margin-top: 280px;
+    margin-top: 260px;
   }
   
 .button:hover {
@@ -93,7 +93,7 @@ html,body{
 }
 .kraj{
 	background: black;
-    height: 80px;
+    height: 120px;
 }
 .text{
 	font-weight: bold;
@@ -101,4 +101,10 @@ html,body{
     margin-top: 50px;
 	text-align: center;
     font-size: 25px;
+}
+.fb-like{
+    margin-left: 600px;
+}
+.fb-share-button{
+    margin-left: 600px;
 }
